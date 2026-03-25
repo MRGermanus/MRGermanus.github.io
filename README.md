@@ -1,2 +1,1 @@
-# hi
-test
+[via deepseek](https://www.deepseek.com/)

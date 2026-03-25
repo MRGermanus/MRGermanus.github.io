@@ -1,1 +1,1 @@
-[via deepseek](https://www.deepseek.com/)
+[test](https://www.deepseek.com "test")
